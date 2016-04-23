@@ -1,8 +1,6 @@
-# GreenLabs Aula #1 - Iniciando o Projeto
-Projeto criado na aula #1 da Série GreenLabs da iniciativa GreenfootBR do DFJUG. Neste projeto iniciamos a construção do cenário do Jogo do Gato Zé
-
-## Banco de Imagens | image repository
-* Imagens do Cenário: http://opengameart.org/content/bevouliin-free-game-background-for-game-developers 
+# GreenLabs Aula #2 - Mais sobre o cenário do jogo
+Projeto criado na aula #2 da Série GreenLabs da iniciativa GreenfootBR do DFJUG. 
+Neste projeto mostramos mais sobre como um cenário é criado e sobre como usar estes recursos ao nosso favor.
 
 ## Equipe | Team
 
