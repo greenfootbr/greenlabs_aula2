@@ -1,13 +1,22 @@
-# GreenLabs Aula #2 - Mais sobre o cenário do jogo
+# GreenLabs Aula #2 - Dominando todo o cenário do jogo
 Projeto criado na aula #2 da Série GreenLabs da iniciativa GreenfootBR do DFJUG. 
 Neste projeto mostramos mais sobre como um cenário é criado e sobre como usar estes recursos ao nosso favor.
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://youtu.be/P8rXnEyl960)
+
 ## Equipe | Team
 
+** Edição, Produção e Arte
 * Daniel de Oliveira
 * Luciene Cavalcante
 * Aecio Junior
 * Jhonatan Morais - www.getjv.com.br
+
+** Testes e Qualidade
+* Cesar Junior
+* José Raimundo
+* Maicon Oliveira
 
 ## Para mais sobre a iniciativa GreenfootBR acesse:
 * O site da comunidade DFJUG [http://www.dfjug.org](http://www.dfjug.org)
